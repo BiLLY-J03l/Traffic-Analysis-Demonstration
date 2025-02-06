@@ -11,7 +11,7 @@ Analyzing and Capturing Traffic with Wireshark and Tcpdump
 
   -The config file will be included in the repo.
 
-## Add a user to be logged with in the ftp server
+## Add a user to be logged in with into the ftp server
 
     adduser ftp_user_billy
     mkdir /home/ftp_user_billy/ftp
